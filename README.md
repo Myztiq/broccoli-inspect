@@ -26,7 +26,7 @@ Log out the temporary directory that contains the output of the tree you pass in
 #### Usage
 
 ```javascript
-    var inpsect = require('broccoli-inspect');
+    var inspect = require('broccoli-inspect');
     // ...
     var mergedTree = mergeTrees([ foo, bar ]);
     mergedTree = inspect.tmpDir(mergedTree, 'merge foo and bar');
