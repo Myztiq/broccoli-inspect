@@ -9,3 +9,7 @@
 # 0.0.3
 
 * Added Changelog and Readme
+
+# 0.0.4
+
+* Added repo information to package.json

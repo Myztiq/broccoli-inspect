@@ -1,12 +1,16 @@
 {
   "name": "broccoli-inspect",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Tools for understanding and debugging your Broccoli build",
   "main": "index.js",
   "keywords": [
     "broccoli-plugin",
     "debugging"
   ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/davewasmer/broccoli-inspect.git"
+  },
   "author": "Dave Wasmer",
   "license": "MIT"
 }
