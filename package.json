@@ -1,0 +1,12 @@
+{
+  "name": "broccoli-inspect",
+  "version": "0.0.1",
+  "description": "Tools for understanding and debugging your Broccoli build",
+  "main": "index.js",
+  "keywords": [
+    "broccoli",
+    "debugging"
+  ],
+  "author": "Dave Wasmer",
+  "license": "MIT"
+}
